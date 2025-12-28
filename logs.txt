@@ -1,0 +1,13 @@
+2023-02-10 03.16.03 : ERROR: There was an attempt to create deme which already exists
+2023-02-10 03.16.07 : ERROR: The password for user: deme2 was too short.
+2023-02-10 03.16.14 : SUCCESS: deme2 was created.
+2023-02-10 03.16.25 : ERROR: The password for: deme2 was incorrect.
+2023-02-10 03.16.33 : ERROR: dememe does not exist within our database.
+2023-02-10 03.16.50 : SUCCESS: deme has logged on.
+2023-02-10 03.35.58 : ERROR: There was an attempt to create deme which already exists
+2023-02-10 03.36.01 : ERROR: The password for user: deme2 was too short.
+2023-02-10 03.36.08 : SUCCESS: deme2 was created.
+2023-02-10 03.36.24 : ERROR: deme4 does not exist within our database.
+2023-02-10 03.36.40 : ERROR: There was an attempt to create deme2 which already exists
+2023-02-10 03.36.49 : SUCCESS: deme3 was created.
+2023-02-10 03.37.04 : SUCCESS: deme2 has logged on.
